@@ -18,6 +18,8 @@ Following are the model parameter, train and test accuracies achieved in trainin
 - Train Accuracy - 96.04%
 - Test Accuracy - 92.24%
 
+Also the local version of the app.py file (for spaces app) can be found at [app.py](https://github.com/sdev2030/ERA1_Session12/blob/main/app.py.ipynb)
+
 Graph showing learning rate used in one cycle LR policy.
 ![LR finder Graph](https://github.com/sdev2030/ERA1_Session12/blob/main/images/onecycle_lr.png)
 
